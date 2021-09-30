@@ -1,0 +1,16 @@
+C:\Users\Matheus\first\obj\Debug\net5.0\List.csproj.AssemblyReference.cache
+C:\Users\Matheus\first\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\first\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+C:\Users\Matheus\first\obj\Debug\net5.0\List.AssemblyInfo.cs
+C:\Users\Matheus\first\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\first\bin\Debug\net5.0\List.exe
+C:\Users\Matheus\first\bin\Debug\net5.0\List.deps.json
+C:\Users\Matheus\first\bin\Debug\net5.0\List.runtimeconfig.json
+C:\Users\Matheus\first\bin\Debug\net5.0\List.runtimeconfig.dev.json
+C:\Users\Matheus\first\bin\Debug\net5.0\List.dll
+C:\Users\Matheus\first\bin\Debug\net5.0\ref\List.dll
+C:\Users\Matheus\first\bin\Debug\net5.0\List.pdb
+C:\Users\Matheus\first\obj\Debug\net5.0\List.dll
+C:\Users\Matheus\first\obj\Debug\net5.0\ref\List.dll
+C:\Users\Matheus\first\obj\Debug\net5.0\List.pdb
+C:\Users\Matheus\first\obj\Debug\net5.0\List.genruntimeconfig.cache

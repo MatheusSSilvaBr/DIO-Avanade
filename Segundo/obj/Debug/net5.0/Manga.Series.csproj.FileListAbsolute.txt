@@ -1,0 +1,5 @@
+C:\Users\Matheus\Manga.Series\obj\Debug\net5.0\Manga.Series.csproj.AssemblyReference.cache
+C:\Users\Matheus\Manga.Series\obj\Debug\net5.0\Manga.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Manga.Series\obj\Debug\net5.0\Manga.Series.AssemblyInfoInputs.cache
+C:\Users\Matheus\Manga.Series\obj\Debug\net5.0\Manga.Series.AssemblyInfo.cs
+C:\Users\Matheus\Manga.Series\obj\Debug\net5.0\Manga.Series.csproj.CoreCompileInputs.cache

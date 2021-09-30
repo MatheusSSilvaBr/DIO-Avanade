@@ -1,0 +1,16 @@
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.csproj.AssemblyReference.cache
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.AssemblyInfoInputs.cache
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.AssemblyInfo.cs
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.exe
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.deps.json
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.runtimeconfig.json
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.runtimeconfig.dev.json
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.dll
+C:\Users\Matheus\first\bin\Debug\net5.0\ref\Manga.dll
+C:\Users\Matheus\first\bin\Debug\net5.0\Manga.pdb
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.dll
+C:\Users\Matheus\first\obj\Debug\net5.0\ref\Manga.dll
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.pdb
+C:\Users\Matheus\first\obj\Debug\net5.0\Manga.genruntimeconfig.cache
